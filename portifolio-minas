@@ -1,0 +1,76 @@
+<DOCTYPE HTML> 
+<html lang="pt-br">
+ <head>
+ <meta charset="utf8">
+ <meta keywords= "gabriela tavares, desenvolvedora,minas programam">
+ <meta name="description" content=" Portiforio Gabriela Tavares">
+ <title>
+    Gabriela Tavares- Portiforio/Github
+ </title>
+</head>
+  <body>
+      <navbar>
+         <ul>
+             <li>
+              <a href =#formacao>formacao</a>
+             </li>
+         </ul>
+         <ul>
+             <li>
+              <a href =#portiforio>portiforio</a>
+              </li>
+            </ul>
+            <ul>
+                <li>
+                    <a href="contato">contato</a>
+      </navbar>
+          <main>
+          <figure>
+             <img scr="./fotos/foto1.jpg" alt="foto de perfil da gabriela">
+              width="200px" />
+         </figure>
+         <h1> Gabriela Tavares</h1>
+          <h2>desenvolvedora</h2>
+          <p>
+         Um texto é uma manifestação da linguagem. Pode ser definido como tudo aquilo que é dito por um emissor e interpretado por um receptor. Dessa forma, tudo que é interpretável é um texto. Outra forma de conceituação 
+         é pensar que tudo aquilo que produz um sentido completo, que seja uma mensagem compreensível, é um texto.
+          </p>
+        </main>
+      <selection id="formacao">
+     <h1> formacao</h1>
+     <ul>
+        <li>
+            <h4>curso de desenvolvimento</h4>
+            <h4><a href="https://mundoeducacao.uol.com.br/redacao/o-que-texto.htm/">link do curso</a></h4>
+            <p>Um texto é uma manifestação da linguagem. Pode ser definido como tudo aquilo que é dito por um emissor e interpretado por um receptor. Dessa forma, tudo que é interpretável é um texto. Outra forma de conceituação é pensar que tudo aquilo que produz um sentido completo, que seja uma mensagem compreensível, é um texto.</p>
+        </li>
+     </ul>
+     </selection>
+     <selection id="portiforio">
+     <h1>Portiforio</h1>
+      <ul>
+       <li>
+     <h2>jornal da escola</h2>
+     <h4><a href = "https://www.dicio.com.br/texto/">link do projeto</a></h4>
+     <p>Conjunto organizado de palavras, expressões, frases de uma língua, que, escrito por um autor, compõe uma obra, livro, documento etc.</p>
+      </li>
+     </ul>
+     </selection>
+      
+   <footer id="contato">
+      <div>
+         <i class="fas fa-envelope-square"></i>
+         <a href="mailto:gabriela.tavares0095@gmail.com">gabriela.tavares0095@gmail.com</a>
+          
+        </div>
+     <div>
+         <i class="fab fa-brands fa-likendin-in"></i>
+         <a href="malito:gabriela.tavares@gmail.com">gabrielalinkedin</a>
+     </div>
+     <div>
+         <span class="fab fa-brands fa-github"></span>
+         <a href="https://github.com/tavares0095/html02-05" target="_blank">Github</a>
+     </div>
+    </footer>
+ </body>
+</html>
